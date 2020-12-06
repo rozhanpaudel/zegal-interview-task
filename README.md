@@ -26,8 +26,7 @@ Password: guest
 * To run the project type node app.js and hit enter
 Now you have successfully installed the project .
 
-
-#How to use it?
+# How to use it?
 
 * After running your node js server, go to localhost:4000 to view subscribed messages.(initially webpage looks empty) Note: this is frontend
 * hit the localhost:4000/api/publish to publish 20 random Messages to queue.
